@@ -34,7 +34,7 @@ If you want to add authentication to your services then you can use https://www.
 
 ## Front-End
 
-Use Angular 13 to develop a responsive web app with a list of accounts, transactions and a login/logout button.
+Use Angular 13 and Angular Material to develop a responsive web app with a list of accounts, transactions and a login/logout button.
 
 ### Requirements:
 
